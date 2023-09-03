@@ -1,0 +1,30 @@
+.button a{
+    position: relative;
+    display:flex;
+    justify-content: center;
+    background: #212121;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+    margin: 0px 550px;
+    border-radius: 5px;
+}
+
+.resume{
+    display: flex;
+    justify-content: center;
+}
+
+.resume img{
+    width: 80%;
+    height: 1175px;
+    margin-top:20px;
+    margin-bottom:20px;
+    border: solid 5px orange;
+    border-radius: 10px;
+}
+
+#btn2{
+    padding-bottom: 30px;
+}
