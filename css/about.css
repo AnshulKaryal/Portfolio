@@ -1,3 +1,7 @@
+main{
+    background: #eff4fd;
+}
+
 .detel{
     margin-left: 8%;
     padding-top: 2%;
@@ -61,12 +65,11 @@ span {
     padding: 10px;
     margin-left: 20px;
     margin-right: 20px;
-    box-shadow: 0 0 5px 5px tomato; 
 }
 
-/* .skill:hover{
-    box-shadow: 0 0 5px 5px red; 
-} */
+.skill:hover{
+    box-shadow: 0 0 5px 5px tomato; 
+}
 
 .connect{
     text-align: center;
